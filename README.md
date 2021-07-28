@@ -1,2 +1,3 @@
 # tinycrypt
-A tiny  encryption library
+
+A simple and configurable crypt library
