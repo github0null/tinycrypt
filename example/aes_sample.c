@@ -8,7 +8,8 @@
  * 2019-03-22     MurphyZhao   the first version
  */
 
-#include "tiny_aes.h"
+#define TINY_CRYPT_AES
+#include "tinycrypt.h"
 
 #define TEST_TINY_AES_IV  "0123456789ABCDEF"
 #define TEST_TINY_AES_KEY "0123456789ABCDEF0123456789ABCDEF"
