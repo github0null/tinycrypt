@@ -58,4 +58,8 @@
 #include "tiny_base64.h"
 #endif
 
+#ifdef TINY_CRYPT_TEA
+#include "tiny_tea.h"
+#endif
+
 #endif
